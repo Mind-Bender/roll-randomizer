@@ -1,0 +1,19 @@
+body {
+  font-family: Times New Roman;
+  text-align: center;
+}
+
+#myBtn {
+  font-size: 30px;
+  padding: 5px 25px;
+  border-radius: 5px;
+  color: rgb(115, 5, 158);
+  background-color: rgb(203, 233, 251);
+  cursor: pointer;
+  transition: background-color 0.25s;
+}
+
+.myLabels {
+  font-size: 30px;
+}
+
